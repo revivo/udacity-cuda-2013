@@ -1,4 +1,5 @@
 // Homework 1
+// Edited by revivo: April 9 2013 
 // Color to Greyscale Conversion
 
 //A common way to represent color images is known as RGBA - the color
